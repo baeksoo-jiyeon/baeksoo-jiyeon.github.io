@@ -1,5 +1,5 @@
 @charset "euc-kr";
 
 @import url("reset.css");
-@import url("common.css?v=0.0.4");
-@import url("layout.css?v=0.0.11");
+@import url("common.css");
+@import url("layout.css");
